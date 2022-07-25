@@ -1,6 +1,0 @@
-numpy
-flask
-cv2
-keras
-gunicorn
-tensorflow
