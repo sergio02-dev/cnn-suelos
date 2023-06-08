@@ -33,4 +33,4 @@ Implementaremos una red neuronal convolucional usando keras-tensorflow, un datas
 ## Agradecimientos
 
 Al trabajo de: 
-[Krishnaik06](https://github.com/DavidReveloLuna/API_DeepLearning)
+[DavidReveloLuna](https://github.com/DavidReveloLuna/API_DeepLearning)
