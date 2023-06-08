@@ -1,6 +1,6 @@
 # API_DeepLearning
 
-Implementaremos una red neuronal convolucional usando keras-tensorflow, un dataset propio de suelos y la ejecutaremos en un servicio web de flask
+Implementaremos una red neuronal convolucional (CNN) usando keras-tensorflow, un dataset propio de suelos y la ejecutaremos en un servicio web de flask
 
 
 ## 1. Preparación del entorno
