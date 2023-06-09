@@ -1,0 +1,1 @@
+Debido al tamaño del dataset lo comprimí en cuatro partes. Descomprimirá la carpeta "dataset".
